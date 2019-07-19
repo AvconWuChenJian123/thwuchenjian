@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pan.baidu.com/s/1mdokQy9XUZSnSRqc_UxdBA</string>
+					<string>https://nj02cm01.baidupcs.com/file/64a516f785539a0a3c284dc2d4b0c669?bkt=en-cf7b18a7c51d90783dc1e49891ca7cc73453cb6700ead19adbb48c8bf3b5db12094fc9a6857f2cc9&fid=151595116-250528-1034431273821865&time=1563500533&sign=FDTAXGERLQBHSKfW-DCb740ccc5511e5e8fedcff06b081203-Ei0oYjRLRtyL8v0cDSoYLqYzm4o%3D&to=88&size=29171486&sta_dx=29171486&sta_cs=0&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2CQingdao%2CAnywhere%2C%2Cjiangxi%2Ccmnet&ctime=1563442040&mtime=1563442642&resv0=cdnback&resv1=0&vuk=2289791273&iv=0&htype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-6e4bef7b5cf7b6bf719a1662c42f8e565e17a37b52dc633fbd35a4c8631f8cb82b4c9d71d45749a4&sl=76480590&expires=8h&rt=sh&r=847214697&mlogid=4624749200987637678&vbdid=3179251094&fin=掌上工程管控APP.ipa&rtype=1&dp-logid=4624749200987637678&dp-callid=0.1.1&hps=1&tsl=80&csl=80&csign=uQYMWkOBoWlonZvHv0e70gVmrFk%3D&so=0&ut=6&uter=4&serv=0&uc=879241619&ti=78cccb630bb0656e970bea36724577f2216bfb9e135b40fe&by=themis</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>appId</string>
+				<string>tellhow_dis_zsgcah</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新版app</string>
+				<string>掌上工程管控APP</string>
 			</dict>
 		</dict>
 	</array>
